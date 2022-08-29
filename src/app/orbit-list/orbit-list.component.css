@@ -17,6 +17,9 @@ table {
 
 }
 
+.odd {
+	background: rgb(179, 222, 114)
+}
 
 .header-row {
 	background: #34495E;
